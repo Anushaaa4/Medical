@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background: #f7f7f7;
+  }
+  h1 {
+    color: #004c99;
+  }
+  nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: #0066cc;
+  }
+  form input, form select, form button {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+  }
+  .doctor {
+    background: #fff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+  }
+  
